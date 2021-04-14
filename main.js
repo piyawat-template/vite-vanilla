@@ -1,6 +1,13 @@
-import './style.css'
+import 'virtual:windi.css'
 
-document.querySelector('#app').innerHTML = `
-  <h1>Hello Vite!</h1>
-  <a href="https://vitejs.dev/guide/features.html" target="_blank">Documentation</a>
-`
+let counter = 0
+
+const renderCount = () => {
+    count.innerHTML = counter
+}
+renderCount()
+
+button.addEventListener('click', () => {
+    counter = counter + 1
+    renderCount()
+})
