@@ -1,0 +1,21 @@
+[debug] [2021-04-14T15:43:56.535Z] ----------------------------------------------------------------------
+[debug] [2021-04-14T15:43:56.539Z] Command:       C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\firebase-tools\lib\bin\firebase.js init hosting
+[debug] [2021-04-14T15:43:56.540Z] CLI Version:   9.10.0
+[debug] [2021-04-14T15:43:56.540Z] Platform:      win32
+[debug] [2021-04-14T15:43:56.540Z] Node Version:  v12.20.2
+[debug] [2021-04-14T15:43:56.541Z] Time:          Wed Apr 14 2021 22:43:56 GMT+0700 (Indochina Time)
+[debug] [2021-04-14T15:43:56.541Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-04-14T15:43:56.550Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-04-14T15:43:56.550Z] > authorizing via signed-in user (piyawat.alonelifedevil.suparsi@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\Git\vite-vanilla
+
